@@ -1,0 +1,79 @@
+.navbar-nav{
+    
+    white-space: nowrap;
+    font-size: smaller;
+
+}
+
+.applesearchbutton{
+    width: 16px;
+    padding-top: 10px;
+
+}
+.cashback{
+   
+    font-size: 13px;
+
+}
+.learnmore{
+    font-size: 14px;
+    text-decoration: none;
+}
+.img-fluid{
+    width: 100%;
+    height: 600px;
+    background: url(section2\ image2.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+.line1{
+    padding-top: 70px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+}
+.mainhead{
+    font-style: italic;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+}
+.subhead{
+    font-weight: 400;
+}
+.link1{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 500;
+    
+}
+.body{
+    height: auto;
+    background-color: white;
+}
+mainhead2{
+    font-weight: bold;
+    
+    font-size: 52px;
+}
+.model{
+    font-size: 17px;
+    letter-spacing: 1px;
+    padding-right: 11px;
+    color: red;
+}
+.navbar-fixed-top{
+  position: fixed; /* <-- Look here */
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+
+
+
+
+
+
